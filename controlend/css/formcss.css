@@ -1,0 +1,54 @@
+body {
+	background-attachment: scroll;
+	background-color: #bbbbbb;
+	background-repeat: repeat;
+	background-position: left top;
+	margin: 0px;
+	padding: 0px;
+}
+.titxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #000000;
+	text-decoration: none;
+}
+.txt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+	text-decoration: none;
+}
+
+	.vline {
+		background-attachment: scroll;
+		background-image: url(../images/vline.png);
+		background-repeat: repeat-x;
+		background-position: left top;
+	}
+	.hline {
+		background-attachment: scroll;
+		background-image: url(../images/hline.png);
+		background-repeat: repeat-y;
+		background-position: left top;
+	}
+	.hrline {
+		background-attachment: scroll;
+		background-image: url(../images/hrline.png);
+		background-repeat: repeat-y;
+		background-position: right top;
+	}
+	.vbline {
+		background-attachment: scroll;
+		background-image: url(../images/vbline.png);
+		background-repeat: repeat-x;
+		background-position: left bottom;
+	}

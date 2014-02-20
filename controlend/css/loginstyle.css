@@ -1,0 +1,14 @@
+body {
+	background-attachment: scroll;
+	background-color: #FFFFFF;
+	background-repeat: repeat;
+	background-position: left top;
+	margin: 0px;
+	padding: 0px;
+}
+.bgs {
+	background-attachment: scroll;
+	background-image: url(../images/bg.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}

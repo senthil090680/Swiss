@@ -1,0 +1,79 @@
+[20-Nov-2012 20:44:49] PHP Warning:  require_once(includes/functions.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/shopping/public_html/swiss/controlend/index.php on line 3
+[20-Nov-2012 20:44:49] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/functions.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shopping/public_html/swiss/controlend/index.php on line 3
+[20-Nov-2012 20:53:28] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/shopping/public_html/swiss/controlend/index.php on line 38
+[20-Nov-2012 22:54:48] PHP Warning:  require_once(continent_array.php.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/shopping/public_html/swiss/controlend/new_plan.php on line 5
+[20-Nov-2012 22:54:48] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'continent_array.php.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shopping/public_html/swiss/controlend/new_plan.php on line 5
+[20-Nov-2012 22:56:48] PHP Warning:  require_once(continent_array.php.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/shopping/public_html/swiss/controlend/new_plan.php on line 5
+[20-Nov-2012 22:56:48] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'continent_array.php.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shopping/public_html/swiss/controlend/new_plan.php on line 5
+[20-Nov-2012 22:58:03] PHP Warning:  require_once(continent_array.php.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/shopping/public_html/swiss/controlend/new_plan.php on line 5
+[20-Nov-2012 22:58:03] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'continent_array.php.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shopping/public_html/swiss/controlend/new_plan.php on line 5
+[20-Nov-2012 22:59:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 204
+[20-Nov-2012 23:00:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 204
+[20-Nov-2012 23:13:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 198
+[20-Nov-2012 23:14:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 198
+[20-Nov-2012 23:20:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 198
+[20-Nov-2012 23:20:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 198
+[20-Nov-2012 23:20:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 198
+[20-Nov-2012 23:20:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 198
+[20-Nov-2012 23:21:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 198
+[20-Nov-2012 23:38:28] PHP Warning:  Invalid argument supplied for foreach() in /home/shopping/public_html/swiss/controlend/new_plan.php on line 208
+[20-Nov-2012 23:38:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 254
+[20-Nov-2012 23:46:23] PHP Parse error:  syntax error, unexpected '}' in /home/shopping/public_html/swiss/controlend/new_plan.php on line 300
+[20-Nov-2012 23:47:42] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 255
+[20-Nov-2012 23:48:56] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 255
+[20-Nov-2012 23:49:21] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 255
+[20-Nov-2012 23:56:04] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 260
+[20-Nov-2012 23:56:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 260
+[20-Nov-2012 23:57:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 260
+[21-Nov-2012 08:02:13] PHP Warning:  Invalid argument supplied for foreach() in /home/shopping/public_html/swiss/controlend/new_plan.php on line 446
+[21-Nov-2012 08:02:13] PHP Warning:  Invalid argument supplied for foreach() in /home/shopping/public_html/swiss/controlend/new_plan.php on line 446
+[21-Nov-2012 08:02:13] PHP Warning:  Invalid argument supplied for foreach() in /home/shopping/public_html/swiss/controlend/new_plan.php on line 446
+[21-Nov-2012 08:02:13] PHP Warning:  Invalid argument supplied for foreach() in /home/shopping/public_html/swiss/controlend/new_plan.php on line 446
+[21-Nov-2012 08:43:31] PHP Parse error:  syntax error, unexpected '}' in /home/shopping/public_html/swiss/controlend/new_plan.php on line 504
+[12-Feb-2013 10:13:43] PHP Warning:  Unknown: POST Content-Length of 54 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:15:26] PHP Warning:  Unknown: POST Content-Length of 54 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:15:32] PHP Warning:  Unknown: POST Content-Length of 43 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:15:54] PHP Warning:  Unknown: POST Content-Length of 54 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:17:54] PHP Warning:  Unknown: POST Content-Length of 54 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:18:24] PHP Warning:  Unknown: POST Content-Length of 39 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:19:26] PHP Warning:  Unknown: POST Content-Length of 39 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:20:10] PHP Warning:  Unknown: POST Content-Length of 42 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:25:35] PHP Warning:  Unknown: POST Content-Length of 45 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:25:36] PHP Fatal error:  Call to undefined function pre() in /home/shopping/public_html/swiss/controlend/index.php on line 16
+[12-Feb-2013 10:29:18] PHP Warning:  Unknown: POST Content-Length of 45 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:29:31] PHP Warning:  Unknown: POST Content-Length of 45 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:31:27] PHP Warning:  Unknown: POST Content-Length of 51 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:32:10] PHP Warning:  Unknown: POST Content-Length of 56 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:32:14] PHP Warning:  Unknown: POST Content-Length of 45 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:33:21] PHP Warning:  Unknown: POST Content-Length of 52 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:34:49] PHP Warning:  Unknown: POST Content-Length of 54 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:35:36] PHP Warning:  Unknown: POST Content-Length of 54 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:40:31] PHP Notice:  Undefined variable: err in /home/shopping/public_html/swiss/controlend/index.php on line 117
+[12-Feb-2013 10:40:37] PHP Warning:  Unknown: POST Content-Length of 54 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:40:37] PHP Notice:  Undefined variable: err in /home/shopping/public_html/swiss/controlend/index.php on line 117
+[12-Feb-2013 10:40:41] PHP Warning:  Unknown: POST Content-Length of 60 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:40:41] PHP Notice:  Undefined variable: err in /home/shopping/public_html/swiss/controlend/index.php on line 117
+[12-Feb-2013 10:40:43] PHP Warning:  Unknown: POST Content-Length of 38 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:40:48] PHP Notice:  Undefined variable: err in /home/shopping/public_html/swiss/controlend/index.php on line 117
+[12-Feb-2013 10:44:20] PHP Warning:  Unknown: POST Content-Length of 51 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:44:28] PHP Notice:  Undefined variable: err in /home/shopping/public_html/swiss/controlend/index.php on line 138
+[12-Feb-2013 10:45:12] PHP Notice:  Undefined variable: err in /home/shopping/public_html/swiss/controlend/index.php on line 141
+[12-Feb-2013 10:45:31] PHP Warning:  Unknown: POST Content-Length of 58 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:45:41] PHP Notice:  Undefined variable: err in /home/shopping/public_html/swiss/controlend/index.php on line 141
+[12-Feb-2013 10:51:25] PHP Warning:  Unknown: POST Content-Length of 51 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:51:30] PHP Notice:  Undefined variable: err in /home/shopping/public_html/swiss/controlend/index.php on line 141
+[12-Feb-2013 10:56:40] PHP Notice:  Undefined variable: err in /home/shopping/public_html/swiss/controlend/index.php on line 136
+[12-Feb-2013 10:56:44] PHP Warning:  Unknown: POST Content-Length of 59 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 10:56:44] PHP Notice:  Undefined variable: err in /home/shopping/public_html/swiss/controlend/index.php on line 136
+[12-Feb-2013 11:14:31] PHP Notice:  Undefined variable: err in /home/shopping/public_html/swiss/controlend/index.php on line 137
+[12-Feb-2013 11:14:36] PHP Warning:  Unknown: POST Content-Length of 58 bytes exceeds the limit of 0 bytes in Unknown on line 0
+[12-Feb-2013 11:14:47] PHP Notice:  Undefined variable: err in /home/shopping/public_html/swiss/controlend/index.php on line 137
+[12-Feb-2013 11:18:23] PHP Notice:  Undefined variable: err in /home/shopping/public_html/swiss/controlend/index.php on line 137
+[12-Feb-2013 11:18:29] PHP Warning:  Unknown: POST Content-Length of 59 bytes exceeds the limit of -2147483648 bytes in Unknown on line 0
+[12-Feb-2013 11:18:29] PHP Notice:  Undefined variable: err in /home/shopping/public_html/swiss/controlend/index.php on line 137
+[12-Feb-2013 11:18:34] PHP Warning:  Unknown: POST Content-Length of 59 bytes exceeds the limit of -2147483648 bytes in Unknown on line 0
+[12-Feb-2013 11:18:34] PHP Notice:  Undefined variable: err in /home/shopping/public_html/swiss/controlend/index.php on line 137
+[12-Feb-2013 11:18:45] PHP Notice:  Undefined variable: err in /home/shopping/public_html/swiss/controlend/index.php on line 137
+[12-Feb-2013 11:18:50] PHP Warning:  Unknown: POST Content-Length of 63 bytes exceeds the limit of -2147483648 bytes in Unknown on line 0
+[12-Feb-2013 11:18:50] PHP Notice:  Undefined variable: err in /home/shopping/public_html/swiss/controlend/index.php on line 137
+[12-Feb-2013 11:20:18] PHP Notice:  Undefined variable: err in /home/shopping/public_html/swiss/controlend/index.php on line 137
