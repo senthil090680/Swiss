@@ -1,0 +1,94 @@
+body {
+	background-attachment: scroll;
+	background-color: #FF0000;
+	background-repeat: repeat;
+	background-position: left top;
+	margin: 0px;
+	padding: 0px;
+}
+.linr {
+	background-attachment: scroll;
+	background-image: url(../images/rline.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+.btxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	
+}
+.btxt a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+
+}
+.btxt a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FF0000;
+	text-decoration: none;
+	
+}
+.rtxtr {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FF0000;
+	text-decoration: none;
+}
+.txt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #333333;
+	line-height:18px;
+	text-decoration: none;
+}
+.fs1 {
+	background-attachment: scroll;
+	background-image: url(../images/form2.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.fb1 {
+	background-attachment: scroll;
+	background-image: url(../images/form1.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.txt1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+	color: #333333;
+	line-height:18px;
+	text-decoration: none;
+}
+.txt2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	color: #333333;
+	line-height:18px;
+	text-decoration: none;
+}.copy {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+}

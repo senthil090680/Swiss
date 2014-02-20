@@ -1,0 +1,287 @@
+body {
+	background-attachment: scroll;
+	background-color: #e70404;
+	background-repeat: repeat;
+	background-position: left top;
+	margin: 0px;
+	padding: 0px;
+}
+.linr {
+	background-attachment: scroll;
+	background-image: url(../images/rline.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+.btxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	
+}
+.btxt a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+
+}
+.btxt a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FF0000;
+	text-decoration: none;
+	
+}
+.rtxtr {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FF0000;
+	text-decoration: none;
+}
+.rtxtr a{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FF0000;
+	text-decoration: none;
+}
+.rtxtr a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	color: #333;
+	text-decoration: none;
+}
+.rtxtr1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FF0000;
+	text-decoration: none;
+}
+.txt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000;
+	line-height:18px;
+	text-decoration: none;
+}
+.fs1 {
+	background-attachment: scroll;
+	background-image: url(../images/form2.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.fb1 {
+	background-attachment: scroll;
+	background-image: url(../images/form1.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.txt1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+	color: #000;
+	line-height:18px;
+	text-decoration: none;
+}
+.txt2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000;
+	line-height:18px;
+	text-decoration: none;
+}
+
+
+.insidetxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000099;
+	text-decoration: none;
+}
+
+
+.suptitxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	color: #000099;
+	text-decoration: none;
+}
+.rate {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: normal;
+	font-weight: normal;
+	color: #000099;
+	text-decoration: none;
+}
+
+.copy {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+}
+.bbg {
+	background-attachment: scroll;
+	background-image: url(../images/bbg.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.sbg {
+	background-attachment: scroll;
+	background-image: url(../images/sbg.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.lbut {
+	background-attachment: scroll;
+	background-image: url(../images/lbut.jpg);
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+.wtxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.dbg
+{
+  background-color: #FFFFFF;
+    border: 2px solid #FF9999;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 1px 1px 1px #888888;
+    float: left;
+    padding: 14px;
+    text-decoration: none;
+    width: 440px;
+	}
+	
+	.dbgg
+{
+  background-color: #FFFFFF;
+    border: 2px solid #FF9999;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 1px 1px 1px #888888;
+    float: left;
+    padding: 14px;
+    text-decoration: none;
+    width: 935px;
+	}
+	
+.lin {
+	background-attachment: scroll;
+	background-image: url(../images/line.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+.fbg
+{
+  background-color: #FFFFFF;
+    border: 1px solid #fd0303;
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: 1px 1px 1px #888888;
+    float: left;
+    padding: 7px;
+    text-decoration: none;
+    width: 290px;
+	}
+
+.input{ border: 1px solid #cfdede; padding:8px 12px; font-size:12px; color:#333; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; width: 170px; background: url(../img/page-background.png) repeat; color: #777777;}
+	
+.input:focus{ outline: none; border: 1px solid #649d9d;}	
+
+
+.inputD{ border: 1px solid #cfdede; padding:8px 12px; font-size:12px; color:#333; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; width: 100px; background: url(../img/page-background.png) repeat; color: #777777;}
+	
+.inputD:focus{ outline: none; border: 1px solid #649d9d;}
+
+
+
+
+.textarea{ border: 1px solid #cfdede; padding:8px 12px; font-size:12px; color:#333; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; width: 700px; background: url(../img/page-background.png) repeat; color: #777777;}
+	
+.textarea:focus{ outline: none; border: 1px solid #649d9d;}	
+
+.button { 
+	background: -moz-linear-gradient(center top, #f3f3f3, #dddddd);
+	background: -webkit-gradient(linear, left top, left bottom, from(#f3f3f3), to(#dddddd));
+	background:  -o-linear-gradient(top, #f3f3f3, #dddddd);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#f3f3f3', EndColorStr='#dddddd');
+	border-color:#000; 
+	border-width:1px;
+        border-radius:4px 4px 4px 4px;
+	-moz-border-radius: 4px;
+        -webkit-border-radius: 4px;
+	color:#333;
+	cursor:pointer;
+	display:inline-block;
+	padding:6px 6px 4px;
+	margin-top:10px;
+	font:12px; 
+	width:214px;
+	
+	}
+
+.button:hover { background:#ddd; }
+
+.ftxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #003366;
+	line-height:18px;
+	text-decoration: none;
+}
+.ftxt a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #003366;
+	line-height:18px;
+	text-decoration: none;
+}
+.ftxt a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FF0000;
+	line-height:18px;
+	text-decoration: none;
+}.foot {
+	background-attachment: scroll;
+	background-image: url(../images/footer.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+}

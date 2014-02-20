@@ -1,0 +1,103 @@
+body {
+	background-attachment: scroll;
+	background-color: #FF0000;
+	background-repeat: repeat;
+	background-position: left top;
+	margin: 0px;
+	padding: 0px;
+}
+
+.General {
+	background-attachment: scroll;
+	background-image: url(../images/general%20info.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	width:550px;
+	height:400;
+}
+.valvu {
+	background-attachment: scroll;
+	background-image: url(../images/valve.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	width:550px;
+}
+.actua {
+	background-attachment: scroll;
+	background-image: url(../images/Actuator.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	width:550px;
+}
+.history {
+	background-attachment: scroll;
+	background-image: url(../images/History.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	width:550px;
+}
+.images {
+	background-attachment: scroll;
+	background-image: url(../images/images.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	width:550px;
+}
+.financial {
+	background-attachment: scroll;
+	background-image: url(../images/Financial.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	width:550px;
+}
+.titxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #000000;
+	text-decoration: none;
+}
+.txt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+	text-decoration: none;
+}
+.buttxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #000000;
+	text-decoration: none;
+	}
+	.buttxt a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #000000;
+	text-decoration: none;
+	}
+	.buttxt a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	}

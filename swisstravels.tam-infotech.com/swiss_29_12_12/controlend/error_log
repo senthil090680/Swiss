@@ -1,0 +1,32 @@
+[20-Nov-2012 20:44:49] PHP Warning:  require_once(includes/functions.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/shopping/public_html/swiss/controlend/index.php on line 3
+[20-Nov-2012 20:44:49] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/functions.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shopping/public_html/swiss/controlend/index.php on line 3
+[20-Nov-2012 20:53:28] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/shopping/public_html/swiss/controlend/index.php on line 38
+[20-Nov-2012 22:54:48] PHP Warning:  require_once(continent_array.php.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/shopping/public_html/swiss/controlend/new_plan.php on line 5
+[20-Nov-2012 22:54:48] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'continent_array.php.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shopping/public_html/swiss/controlend/new_plan.php on line 5
+[20-Nov-2012 22:56:48] PHP Warning:  require_once(continent_array.php.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/shopping/public_html/swiss/controlend/new_plan.php on line 5
+[20-Nov-2012 22:56:48] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'continent_array.php.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shopping/public_html/swiss/controlend/new_plan.php on line 5
+[20-Nov-2012 22:58:03] PHP Warning:  require_once(continent_array.php.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/shopping/public_html/swiss/controlend/new_plan.php on line 5
+[20-Nov-2012 22:58:03] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'continent_array.php.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shopping/public_html/swiss/controlend/new_plan.php on line 5
+[20-Nov-2012 22:59:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 204
+[20-Nov-2012 23:00:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 204
+[20-Nov-2012 23:13:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 198
+[20-Nov-2012 23:14:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 198
+[20-Nov-2012 23:20:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 198
+[20-Nov-2012 23:20:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 198
+[20-Nov-2012 23:20:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 198
+[20-Nov-2012 23:20:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 198
+[20-Nov-2012 23:21:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 198
+[20-Nov-2012 23:38:28] PHP Warning:  Invalid argument supplied for foreach() in /home/shopping/public_html/swiss/controlend/new_plan.php on line 208
+[20-Nov-2012 23:38:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 254
+[20-Nov-2012 23:46:23] PHP Parse error:  syntax error, unexpected '}' in /home/shopping/public_html/swiss/controlend/new_plan.php on line 300
+[20-Nov-2012 23:47:42] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 255
+[20-Nov-2012 23:48:56] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 255
+[20-Nov-2012 23:49:21] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 255
+[20-Nov-2012 23:56:04] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 260
+[20-Nov-2012 23:56:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 260
+[20-Nov-2012 23:57:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/controlend/new_plan.php on line 260
+[21-Nov-2012 08:02:13] PHP Warning:  Invalid argument supplied for foreach() in /home/shopping/public_html/swiss/controlend/new_plan.php on line 446
+[21-Nov-2012 08:02:13] PHP Warning:  Invalid argument supplied for foreach() in /home/shopping/public_html/swiss/controlend/new_plan.php on line 446
+[21-Nov-2012 08:02:13] PHP Warning:  Invalid argument supplied for foreach() in /home/shopping/public_html/swiss/controlend/new_plan.php on line 446
+[21-Nov-2012 08:02:13] PHP Warning:  Invalid argument supplied for foreach() in /home/shopping/public_html/swiss/controlend/new_plan.php on line 446
+[21-Nov-2012 08:43:31] PHP Parse error:  syntax error, unexpected '}' in /home/shopping/public_html/swiss/controlend/new_plan.php on line 504

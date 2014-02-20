@@ -1,0 +1,31 @@
+[21-Nov-2012 09:10:03] PHP Parse error:  syntax error, unexpected $end in /home/shopping/public_html/swiss/index.php on line 489
+[21-Nov-2012 09:10:44] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'shopping'@'localhost' (using password: NO) in /home/shopping/public_html/swiss/index.php on line 193
+[21-Nov-2012 09:10:44] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/shopping/public_html/swiss/index.php on line 193
+[21-Nov-2012 09:13:23] PHP Warning:  require_once(includes/array_call.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/shopping/public_html/swiss/index.php on line 4
+[21-Nov-2012 09:13:23] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/array_call.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shopping/public_html/swiss/index.php on line 4
+[21-Nov-2012 09:14:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/index.php on line 206
+[21-Nov-2012 09:15:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/index.php on line 206
+[22-Nov-2012 00:28:11] PHP Parse error:  syntax error, unexpected $end in /home/shopping/public_html/swiss/index.php on line 465
+[22-Nov-2012 00:47:53] PHP Parse error:  syntax error, unexpected '<' in /home/shopping/public_html/swiss/index.php on line 385
+[24-Nov-2012 17:19:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jobtarin_india'@'server06.hostingraja.in' (using password: YES) in /home/shopping/public_html/swiss/load_mysql_to_csv_in_a_single_query.php on line 13
+[26-Nov-2012 02:21:20] PHP Parse error:  syntax error, unexpected '}' in /home/shopping/public_html/swiss/index.php on line 423
+[26-Nov-2012 03:55:46] PHP Parse error:  syntax error, unexpected $end in /home/shopping/public_html/swiss/index.php on line 484
+[26-Nov-2012 05:02:23] PHP Parse error:  syntax error, unexpected '{' in /home/shopping/public_html/swiss/index.php on line 323
+[26-Nov-2012 05:10:14] PHP Parse error:  syntax error, unexpected $end in /home/shopping/public_html/swiss/index.php on line 450
+[26-Nov-2012 05:26:19] PHP Parse error:  syntax error, unexpected '}' in /home/shopping/public_html/swiss/index.php on line 339
+[29-Nov-2012 10:43:04] PHP Parse error:  syntax error, unexpected $end in /home/shopping/public_html/swiss/goatour.php on line 340
+[29-Nov-2012 10:43:26] PHP Parse error:  syntax error, unexpected $end in /home/shopping/public_html/swiss/goatour.php on line 340
+[29-Nov-2012 10:43:29] PHP Parse error:  syntax error, unexpected $end in /home/shopping/public_html/swiss/goatour.php on line 340
+[29-Nov-2012 11:26:43] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/shopping/public_html/swiss/goatour.php on line 34
+[29-Nov-2012 11:27:36] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: SAFE MODE Restriction in effect.  The fifth parameter is disabled in SAFE MODE in /home/shopping/public_html/swiss/goatour.php on line 50
+[11-Feb-2013 19:16:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shopping_switrav'@'182.18.151.191' (using password: YES) in /home/shopping/public_html/swiss/includes/class.main.php on line 10
+[12-Feb-2013 10:13:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/index.php on line 185
+[12-Feb-2013 11:35:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/shopping/public_html/swiss/index.php on line 185
+[12-Feb-2013 11:40:23] PHP Fatal error:  Call to undefined function debugerr() in /home/shopping/public_html/swiss/index.php on line 185
+[12-Feb-2013 12:07:48] PHP Fatal error:  Call to undefined function debugerr() in /home/shopping/public_html/swiss/index.php on line 185
+[12-Feb-2013 12:09:06] PHP Fatal error:  Call to undefined function debugerr() in /home/shopping/public_html/swiss/index.php on line 185
+[12-Feb-2013 12:09:47] PHP Fatal error:  Call to undefined function debugerr() in /home/shopping/public_html/swiss/index.php on line 185
+[12-Feb-2013 12:24:11] PHP Parse error:  syntax error, unexpected ')' in /home/shopping/public_html/swiss/index.php on line 187
+[12-Feb-2013 12:31:37] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/shopping/public_html/swiss/index.php on line 244
+[12-Feb-2013 14:33:40] PHP Parse error:  syntax error, unexpected T_ELSE in /home/shopping/public_html/swiss/goatour.php on line 494
+[13-Feb-2013 10:11:08] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/shopping/public_html/swiss/Flights.php on line 345

@@ -1,0 +1,59 @@
+.view
+{
+ margin: 0 auto;
+ overflow: hidden; 
+ width: 900px;
+ height: 190px;
+ border: 1px solid #ffffff;
+ /*background: url('./multimedia/music.jpg');*/
+ position: relative;  
+}
+ul.thumbnail
+{
+ position: relative; 
+ left: 0; 
+ top: 0; 
+}
+ul.thumbnail li
+{
+ float: left;
+  height: 150px;
+ list-style: none; 
+ -moz-border-radius:10px;
+ -webkit-border-radius:10px;
+ vertical-align: middle;
+ padding: 15px;
+}
+ul.thumbnail li img 
+{
+ height: 150px;
+ width: 150px;
+ vertical-align: baseline;
+ -moz-border-radius:10px;
+ -webkit-border-radius:10px;
+}
+
+.tabstyle{
+ font-family: Monaco, Verdana, Sans-serif; 
+ font-size:12px;
+ border: 1px solid #D0D0D0;
+ color: #002166;
+ width:900px;
+ -moz-border-radius:10px;
+ -webkit-border-radius:10px;
+ vertical-align: bottom;
+}
+
+a.next, a.prev {
+ display: block;
+ width: 30px;
+ height: 30px;
+ float: left;
+ margin: 60px 10px;
+ cursor: pointer;
+}
+
+#gallery-prev{float: left;}
+#gallery-next{float: right;}
+a.next { background: url(fancy-right.png) no-repeat;}
+a.prev	{ background: url(fancy-left.png) no-repeat;  margin-left: 0px; }
